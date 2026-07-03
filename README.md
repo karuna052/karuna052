@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Karuna 👋
 
-<!--
-**karuna052/karuna052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 B.Tech CSE Student | Learning Web Development & DSA
 
-Here are some ideas to get you started:
+🌱 Currently learning **C++, DSA, HTML & CSS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Building projects and contributing to Open Source
+
+🎯 Goal: Become a Full Stack Developer and build impactful products
+
+## 👨‍💻 About Me
+
+- 🎓 Second-year B.Tech CSE student
+- 🌱 Currently exploring Web Development and Data Structures & Algorithms
+- 🤝 Interested in Open Source and Hackathons
+- 📚 Learning in public by sharing my journey on LinkedIn
+- 💡 Always curious to build, learn, and improve
+
+ ## 🛠️ Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
