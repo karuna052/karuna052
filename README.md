@@ -1,10 +1,12 @@
-# Hi, I'm Karuna 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Karuna+%F0%9F%91%8B;B.Tech+CSE+Student;Learning+Web+Development+%26+DSA;Building+Projects;Open+Source+Contributor;Building+in+Public)](https://git.io/typing-svg)
 
-### 💻 B.Tech CSE Student | Learning Web Development & DSA
+> 💜 Turning ideas into projects, one commit at a time.
+
+💻 **B.Tech CSE Student** | Learning Web Development & DSA
 
 🌱 Currently learning **C++, DSA, HTML & CSS**
 
-🚀 Building projects and contributing to Open Source
+🚀 Building projects • Contributing to Open Source
 
 🎯 Goal: Become a Full Stack Developer and build impactful products
 
